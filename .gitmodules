@@ -1,0 +1,15 @@
+[submodule "brain-essentials/7swinutil"]
+	path = brain-essentials/7swinutil
+	url = https://github.com/777shuang/7swinutil
+[submodule "brain-essentials/brainapi"]
+	path = brain-essentials/brainapi
+	url = https://github.com/777shuang/brainapi
+[submodule "brain-essentials/kncecomm"]
+	path = brain-essentials/kncecomm
+	url = https://github.com/777shuang/kncecomm
+[submodule "brain-essentials/kncedlg"]
+	path = brain-essentials/kncedlg
+	url = https://github.com/777shuang/kncedlg
+[submodule "brain-essentials/knceutil"]
+	path = brain-essentials/knceutil
+	url = https://github.com/777shuang/knceutil
